@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanvirahamed2001
+- 👋 Hi, I’m Tanvir!
 - 👀 I’m interested in writing code in Java and Python to build apps that would have impact in real world
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on interesting projects that would have real world use.
