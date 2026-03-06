@@ -67,7 +67,7 @@ CS graduate from the University of Calgary, building at the intersection of **fr
 ## 💼 Experience
 
 - **Contract Software Developer** @ Sattar Metal Industries — full-stack apps on AWS, SAP ERP + React.js integration, $8M enterprise project, 100+ users
-- **4+ years** tutoring — English & IELTS instruction
+- **4+ years** tutoring — Math Instructor @ Mathnasium
 
 ---
 
