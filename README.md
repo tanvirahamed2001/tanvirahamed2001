@@ -1,12 +1,13 @@
 # Hi, I'm Tanvir 👋
 
-CS graduate from the University of Calgary, building at the intersection of **frontend development** and **cloud infrastructure**. I love solving real-world problems through clean, purposeful software.
+CS graduate from the University of Calgary, building at the intersection of **full-stack development** and **cloud infrastructure**. I love solving real-world problems through clean, purposeful software.
 
 ---
 
 ## 🧠 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -15,18 +16,23 @@ CS graduate from the University of Calgary, building at the intersection of **fr
 
 ---
 
-## 🎨 Frontend
+## 🎨 Full Stack
 
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend & Database
 
 ![REST API](https://img.shields.io/badge/REST_APIs-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=apachekafka&logoColor=white)
 
@@ -38,6 +44,8 @@ CS graduate from the University of Calgary, building at the intersection of **fr
 ![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP_ERP-0070F3?style=for-the-badge&logo=sap&logoColor=white)
 
 > 🎯 AWS Solutions Architect – Associate *(in progress)*
@@ -49,6 +57,7 @@ CS graduate from the University of Calgary, building at the intersection of **fr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-FE315D?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -71,7 +80,17 @@ CS graduate from the University of Calgary, building at the intersection of **fr
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Projects
+
+- **Varkly** — VARK-powered AI prompt generator | React, TypeScript, Tailwind, Supabase, Framer Motion · [varkly.app](https://varkly-eight.vercel.app)
+- **ZooTech Hackathon 2026** — Cursor Hackathon @ UCalgary | React, TypeScript, Vite, Tailwind, Supabase
+- **CineMagic** — Movie discovery app | JavaScript
+- **CPSC-233 Team Tracker** — Team statistics dashboard | Java, JavaFX
+- **SENG-300 Iteration 3** — Enterprise software project | Java
+
+---
+
+## 🌱 What I'm Working On
 
 - 🎯 AWS Solutions Architect – Associate certification
 - ☁️ Building cloud & DevOps projects in public
@@ -81,7 +100,7 @@ CS graduate from the University of Calgary, building at the intersection of **fr
 
 ## 💼 Open to New Grad Roles
 
-Actively looking for **Junior Frontend**, **Cloud**, or **DevOps** positions. If you're hiring or want to collaborate, let's connect!
+Actively looking for **Junior Full Stack**, **Cloud**, or **DevOps** positions. If you're hiring or want to collaborate, let's connect!
 
 ---
 
