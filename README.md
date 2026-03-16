@@ -47,6 +47,9 @@ CS graduate from the University of Calgary, building at the intersection of **fu
 ![AWS IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP_ERP-0070F3?style=for-the-badge&logo=sap&logoColor=white)
 
 > 🎯 AWS Solutions Architect – Associate *(in progress)*
@@ -78,16 +81,6 @@ CS graduate from the University of Calgary, building at the intersection of **fu
 
 - **Contract Software Developer** @ Sattar Metal Industries — full-stack apps on AWS, SAP ERP + React.js integration, $8M enterprise project, 100+ users
 - **4+ years** tutoring — Math Instructor @ Mathnasium
-
----
-
-## 🚀 Projects
-
-- **Varkly** — VARK-powered AI prompt generator | React, TypeScript, Tailwind, Supabase, Framer Motion · [varkly.app](https://varkly-eight.vercel.app)
-- **ZooTech Hackathon 2026** — Cursor Hackathon @ UCalgary | React, TypeScript, Vite, Tailwind, Supabase
-- **CineMagic** — Movie discovery app | JavaScript
-- **CPSC-233 Team Tracker** — Team statistics dashboard | Java, JavaFX
-- **SENG-300 Iteration 3** — Enterprise software project | Java
 
 ---
 
